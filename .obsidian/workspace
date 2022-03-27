@@ -10,6 +10,7 @@
           {
             "id": "df891fe8e57dc977",
             "type": "leaf",
+            "dimension": 19.029495718363464,
             "state": {
               "type": "markdown",
               "state": {
@@ -19,23 +20,54 @@
             }
           },
           {
-            "id": "ca91f5f0b9027c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source"
+            "id": "f6493d0b286201b4",
+            "type": "split",
+            "dimension": 38.05899143672693,
+            "children": [
+              {
+                "id": "a67292f478134332",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "001 LIVES/2022-04-02 - Tema aleatorio.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "518715c1a6b162d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "001 LIVES/2022-03-24 Hacking 101 - Enumeración de Active Directory con Bloodhound 🐕.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "e7a0a81c992482bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "001 LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "c2f492bf7c78e4b7",
+            "id": "a9e356fd307ff770",
             "type": "leaf",
+            "dimension": 42.9115128449096,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+                "file": "tpl/tpl.LIVES.md",
                 "mode": "source"
               }
             }
@@ -97,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DASHBOARD.md",
+                "file": "tpl/tpl.LIVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df891fe8e57dc977",
+  "active": "a9e356fd307ff770",
   "lastOpenFiles": [
+    "tpl/tpl.LIVES.md",
     "DASHBOARD.md",
-    "LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+    "001 LIVES/2022-03-24 Hacking 101 - Enumeración de Active Directory con Bloodhound 🐕.md",
+    "001 LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+    "001 LIVES/2022-04-02 - Tema aleatorio.md",
     "Untitled.md",
-    "Markdown Basico.md",
+    "LIVES/Untitled.md",
+    "003 MATERIAL/Markdown Basico.md",
     "Untitled 1.md",
-    "LIVES/2022-03-26.md",
-    "LIVES/2022-04-16 Taller de Go.md"
+    "LIVES/2022-03-26.md"
   ]
 }

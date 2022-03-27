@@ -1,5 +1,9 @@
-
+## LIVES
 
 ``` dataview
-table title as Titulo, date as "Fecha Emision", YouTube, Tools FROM #Twitch/Live
+table date as "Fecha Emision", YouTube, Tools FROM #Twitch/Live
 ```
+
+## 🏴‍☠️ Hardware 
+
+## Material

@@ -71,3 +71,8 @@ CAPTURA DEL CHAT
 	- Instagram
 	- Telegram
 	
+### Tareas
+- [ ] TAREA 1
+	- [ ] TAREA 1.1
+- [ ] Tarea 2
+- [ ] Tarea 3
