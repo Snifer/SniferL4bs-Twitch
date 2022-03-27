@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "fe0ea1a1b36fe208",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab73f8ea6ce0ecfd",
+        "type": "split",
+        "children": [
+          {
+            "id": "df891fe8e57dc977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DASHBOARD.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "ca91f5f0b9027c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c2f492bf7c78e4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a45a52f23ddfa843",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be89f76c32ee367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc4348ce6b78338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8847300271bed46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "right": {
+    "id": "1e52c413d4ea935a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7b369f53183187a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db2be456ef1f72b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DASHBOARD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df891fe8e57dc977",
+  "lastOpenFiles": [
+    "DASHBOARD.md",
+    "LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
+    "Untitled.md",
+    "Markdown Basico.md",
+    "Untitled 1.md",
+    "LIVES/2022-03-26.md",
+    "LIVES/2022-04-16 Taller de Go.md"
+  ]
+}

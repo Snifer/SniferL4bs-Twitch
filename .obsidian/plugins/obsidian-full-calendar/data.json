@@ -1,0 +1,11 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#2d82cc",
+      "directory": "LIVES"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true
+}

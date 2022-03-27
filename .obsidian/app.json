@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "legacyEditor": true,
+  "livePreview": true,
+  "attachmentFolderPath": "IMG",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}
