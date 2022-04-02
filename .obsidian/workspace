@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 HARDWARE/Wifi Duck.md",
+                "file": "002 HARDWARE/WiFi Duck.md",
                 "mode": "source"
               }
             }
@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
+                "file": "002 HARDWARE/WiFi Duck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd3ed0809d88cd59",
+  "active": "67e4b446efb395f6",
   "lastOpenFiles": [
+    "002 HARDWARE/WiFi Duck.md",
+    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md",
     "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "tpl/tpl.hlc.md",
-    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md",
-    "002 HARDWARE/Wifi Duck.md",
     "003 MATERIAL/Markdown Basico.md",
     "002 HARDWARE/ESP8266 Deauther Version 2.md",
     "002 HARDWARE/ESP8266 Deauther Version 1.md",

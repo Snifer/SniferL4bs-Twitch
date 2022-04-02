@@ -6,9 +6,10 @@ Cada una de las herramientas y hardware tendra su referencia en una nota con los
 
 
 | Nombre                                | Descripcion | En ejecucion | Video | Estado |     |
-| ------------------------------------- | ----------- | ------------ | ----- |: ------ :| --- |
-| [[ESP8266 Deauther Version 1]]        |             |              |       | 🚧     |     |
-| [[ESP8266 Deauther Version 2]]        |             |              |       | 🚧     |     |
-| [[Wifi Duck  ]]                       |             |              |       | 🚧     |     |
-| [[Rubber Ducky Low Cost - Digispark]] |             |              |       | 🚧     |     |
+| ------------------------------------- | ----------- | ------------ | ----- |:------:| --- |
+| [[ESP8266 Deauther Version 1]]        |             |              |       |   🚧   |     |
+| [[ESP8266 Deauther Version 2]]        |             |              |       |   🚧   |     |
+| [[WiFi Duck  ]]                       |             |              |       |   🚧   |     |
+| [[Rubber Ducky Low Cost - Digispark]] |             |              |       |   🚧   |     |
+| [[P4wnP1 A.L.O.A]]                    |             |              |       |   🚧   |     |
 	

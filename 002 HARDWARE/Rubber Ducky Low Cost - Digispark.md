@@ -4,4 +4,5 @@
 
 ### Notas y referencias
 
-- [DigisparkKeyboard library with multiple layout support](https://github.com/ernesto-xload/DigisparkKeyboard)
+- [DigiSparkKeyboard library with multiple layout support](https://github.com/ernesto-xload/DigisparkKeyboard)
+- [DigiSpark Scripts](https://github.com/CedArctic/DigiSpark-Scripts)
