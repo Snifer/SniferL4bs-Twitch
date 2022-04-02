@@ -4,12 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "f33c09c97f6c47c7",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-view",
-          "state": {}
-        }
+        "id": "0e0be63a9da13185",
+        "type": "split",
+        "children": [
+          {
+            "id": "f33c09c97f6c47c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tpl/tpl.hlc.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "67e4b446efb395f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 HARDWARE/Wifi Duck.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cd3ed0809d88cd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,25 +107,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "563e507cfeb9470f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f33c09c97f6c47c7",
+  "active": "cd3ed0809d88cd59",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-03-28 22.34.07.excalidraw.md",
+    "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
+    "tpl/tpl.hlc.md",
+    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md",
+    "002 HARDWARE/Wifi Duck.md",
+    "003 MATERIAL/Markdown Basico.md",
+    "002 HARDWARE/ESP8266 Deauther Version 2.md",
+    "002 HARDWARE/ESP8266 Deauther Version 1.md",
     "DASHBOARD.md",
-    "README.md",
-    "001 LIVES/2022-03-24 Hacking 101 - Enumeración de Active Directory con Bloodhound 🐕.md",
-    "001 LIVES/2022-03-26 Obsidian Markdown - Vault Lives Twitch.md",
-    "001 LIVES/2022-04-02 Hardware Hacking Primeros pasos.md",
-    "tpl/tpl.LIVES.md",
-    "Untitled.md",
-    "LIVES/Untitled.md",
-    "003 MATERIAL/Markdown Basico.md"
+    "Excalidraw/Drawing 2022-03-28 22.34.07.excalidraw.md",
+    "README.md"
   ]
 }
