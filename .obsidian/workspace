@@ -4,35 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0be63a9da13185",
-        "type": "split",
-        "children": [
-          {
-            "id": "f33c09c97f6c47c7",
-            "type": "leaf",
-            "dimension": 39.00709219858156,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tpl/tpl.hlc.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "67e4b446efb395f6",
-            "type": "leaf",
-            "dimension": 60.99290780141844,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 HARDWARE/Whistle Cap Crunch.md",
-                "mode": "source"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "67e4b446efb395f6",
+        "type": "leaf",
+        "state": {
+          "type": "full-calendar-view",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -72,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "right": {
     "id": "1e52c413d4ea935a",
@@ -88,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 HARDWARE/Whistle Cap Crunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +94,10 @@
   },
   "active": "67e4b446efb395f6",
   "lastOpenFiles": [
-    "002 HARDWARE/Whistle Cap Crunch.md",
-    "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "tpl/tpl.hlc.md",
+    "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "002 HARDWARE/WiFi Duck.md",
+    "002 HARDWARE/Whistle Cap Crunch.md",
     "002 HARDWARE/P4wnP1 A.L.O.A.md",
     "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md",
     "003 MATERIAL/Markdown Basico.md",
