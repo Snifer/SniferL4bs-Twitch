@@ -12,4 +12,5 @@ Cada una de las herramientas y hardware tendra su referencia en una nota con los
 | [[WiFi Duck  ]]                       |             |              |       |   🚧   |     |
 | [[Rubber Ducky Low Cost - Digispark]] |             |              |       |   🚧   |     |
 | [[P4wnP1 A.L.O.A]]                    |             |              |       |   🚧   |     |
+| [[Whistle Cap Crunch]]                                      |             |              |       |        |     |
 	
