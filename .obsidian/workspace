@@ -10,6 +10,7 @@
           {
             "id": "f33c09c97f6c47c7",
             "type": "leaf",
+            "dimension": 20.304568527918782,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,6 +22,7 @@
           {
             "id": "67e4b446efb395f6",
             "type": "leaf",
+            "dimension": 20.304568527918782,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,12 +34,10 @@
           {
             "id": "cd3ed0809d88cd59",
             "type": "leaf",
+            "dimension": 59.390862944162436,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 HARDWARE/P4wnP1 A.L.O.A.md",
-                "mode": "source"
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 HARDWARE/P4wnP1 A.L.O.A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
