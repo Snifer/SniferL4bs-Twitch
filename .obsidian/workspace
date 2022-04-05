@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67e4b446efb395f6",
+        "id": "02e7eea7f01dcddb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +91,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67e4b446efb395f6",
+  "active": "02e7eea7f01dcddb",
   "lastOpenFiles": [
     "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "tpl/tpl.hlc.md",
