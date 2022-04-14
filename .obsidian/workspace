@@ -4,12 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "02e7eea7f01dcddb",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-view",
-          "state": {}
-        }
+        "id": "5ce958545e1ca883",
+        "type": "split",
+        "children": [
+          {
+            "id": "02e7eea7f01dcddb",
+            "type": "leaf",
+            "dimension": 20.263424518743665,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 MATERIAL/HACKING MOBILE 101.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "0167f133d57f7581",
+            "type": "leaf",
+            "dimension": 79.73657548125634,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 HARDWARE/ESP8266 Deauther Version 2.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002 HARDWARE/ESP8266 Deauther Version 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02e7eea7f01dcddb",
+  "active": "0167f133d57f7581",
   "lastOpenFiles": [
+    "002 HARDWARE/ESP8266 Deauther Version 2.md",
+    "002 HARDWARE/ESP8266 Deauther Version 1.md",
+    "IDEAS.md",
+    "003 MATERIAL/HACKING MOBILE 101.md",
     "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "tpl/tpl.hlc.md",
     "002 HARDWARE/WiFi Duck.md",
     "002 HARDWARE/Whistle Cap Crunch.md",
     "002 HARDWARE/P4wnP1 A.L.O.A.md",
-    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md",
-    "003 MATERIAL/Markdown Basico.md",
-    "002 HARDWARE/ESP8266 Deauther Version 2.md",
-    "002 HARDWARE/ESP8266 Deauther Version 1.md",
-    "DASHBOARD.md"
+    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md"
   ]
 }
