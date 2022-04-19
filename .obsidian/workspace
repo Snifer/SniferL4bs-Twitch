@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 MATERIAL/HACKING MOBILE 101.md",
+                "file": "HACKMYVM/Machines.md",
                 "mode": "source"
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 MATERIAL/HACKING MOBILE 101.md",
+                "file": "HACKMYVM/Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "0167f133d57f7581",
   "lastOpenFiles": [
+    "HACKMYVM/Machines.md",
+    "IDEAS.md",
     "003 MATERIAL/HACKING MOBILE 101.md",
     "002 HARDWARE/ESP8266 Deauther Version 2.md",
     "002 HARDWARE/ESP8266 Deauther Version 1.md",
-    "IDEAS.md",
     "002 HARDWARE/0000 Hardware Hacking Low Cost.md",
     "tpl/tpl.hlc.md",
     "002 HARDWARE/WiFi Duck.md",
     "002 HARDWARE/Whistle Cap Crunch.md",
-    "002 HARDWARE/P4wnP1 A.L.O.A.md",
-    "002 HARDWARE/Rubber Ducky Low Cost - Digispark.md"
+    "002 HARDWARE/P4wnP1 A.L.O.A.md"
   ]
 }
