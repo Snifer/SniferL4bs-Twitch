@@ -1,6 +1,5 @@
-Nombre:: 
-URL::
-Desarrollador:: 
-Terminado:: 
+VmName:: 
+Creator:: 
+Level::
+Link::
 Video::
-Enlaces::
