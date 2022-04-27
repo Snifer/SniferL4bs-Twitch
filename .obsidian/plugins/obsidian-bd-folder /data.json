@@ -1,0 +1,9 @@
+{
+  "global_settings": {
+    "enable_debug_mode": true,
+    "logger_level_info": "error"
+  },
+  "local_settings": {
+    "enable_show_state": true
+  }
+}
