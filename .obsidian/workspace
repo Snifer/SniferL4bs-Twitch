@@ -4,34 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1db4927ac92c9033",
+        "id": "2f869b9ca13e1502",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HACKMYVM/000 Machines.md",
+            "file": "README.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0109172b8912998e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HACKMYVM/Rei.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5018e890e53b8ce0",
-        "type": "leaf",
-        "state": {
-          "type": "database-plugin",
-          "state": {
-            "file": "HACKMYVM/000 Machines.md"
           }
         }
       }
@@ -73,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407
+    "width": 245
   },
   "right": {
     "id": "1e52c413d4ea935a",
@@ -89,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HACKMYVM/000 Machines.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5018e890e53b8ce0",
+  "active": "2f869b9ca13e1502",
   "lastOpenFiles": [
-    "HACKMYVM/000 Machines.md",
-    "HACKMYVM/Rei.md",
-    "HACKMYVM/System Machine.md",
-    "tpl/tplMachine.md",
     "README.md",
-    "003 MATERIAL/HACKING MOBILE 101.md",
-    "IDEAS.md",
-    "002 HARDWARE/ESP8266 Deauther Version 2.md",
-    "002 HARDWARE/ESP8266 Deauther Version 1.md",
-    "002 HARDWARE/0000 Hardware Hacking Low Cost.md"
+    "tpl/tplMachine.md",
+    "001 LIVES/IDEAS.md",
+    "Obsidian/Shorts - Plugins Casos de Uso/Plugin Custom Frames.md",
+    "Machines Boot2Root/000 Machines.md",
+    "DASHBOARD.md",
+    "Machines Boot2Root/Alzheimer.md",
+    "Machines Boot2Root/THM/Retro/Retro.md",
+    "Machines Boot2Root/RETRO -.md",
+    "Machines Boot2Root/THM/Retro/NMAP.md"
   ]
 }

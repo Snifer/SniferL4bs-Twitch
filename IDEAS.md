@@ -1,7 +1,0 @@
-- BLUE TEAM 
-- Arsenal 
-	- Winpeas
-	- Linpeas. 
-	- PurplePanda
-
-- 

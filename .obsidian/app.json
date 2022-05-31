@@ -3,8 +3,10 @@
   "showLineNumber": true,
   "legacyEditor": true,
   "livePreview": true,
-  "attachmentFolderPath": "IMG",
+  "attachmentFolderPath": "Obsidian/PRESENTACIONES/INTRODUCCION-OBSIDIAN/img",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
-  "promptDelete": false
+  "useMarkdownLinks": false,
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true
 }

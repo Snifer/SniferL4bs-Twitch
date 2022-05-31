@@ -1,0 +1,17 @@
+{
+  "port": "7000",
+  "autoReload": true,
+  "exportDirectory": "Obsidian/PRESENTACIONES",
+  "enableChalkboard": true,
+  "enableOverview": true,
+  "enableMenu": true,
+  "theme": "black",
+  "highlightTheme": "monokai",
+  "transition": "slide",
+  "transitionSpeed": "slow",
+  "controls": true,
+  "progress": true,
+  "slideNumber": true,
+  "showGrid": false,
+  "autoComplete": "inPreview"
+}
