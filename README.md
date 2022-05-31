@@ -7,6 +7,7 @@ Este Vault  contiene la información que es generada en los Lives que realizamos
 Pasamos a describir las carpetas que contiene el VAULT
 
 ### Carpetas
+
 - 001 LIVES **->** Contiene toda la información  referente 
 - 002 HARDWARE
 - 003 MATERIAL

